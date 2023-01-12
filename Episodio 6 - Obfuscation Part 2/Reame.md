@@ -1,1 +1,5 @@
-[img]https://i.imgur.com/bSaTHSo.png[/img]
+<br>
+
+![](https://i.imgur.com/bSaTHSo.png)
+
+<br>
